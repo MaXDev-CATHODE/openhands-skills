@@ -1,0 +1,31 @@
+{
+  "name": "openhands-skills",
+  "owner": {
+    "name": "MaXDev-CATHODE"
+  },
+  "metadata": {
+    "description": "Rejestr skilli OpenHands (SEO, marketing, analiza treści).",
+    "maintainer": "MaXDev-CATHODE",
+    "homepage": "https://github.com/MaXDev-CATHODE/openhands-skills"
+  },
+  "plugins": [
+    {
+      "name": "seo-auditor",
+      "source": "./skills/seo-auditor",
+      "description": "Rygorystyczny i krytyczny audyt SEO pełnego zakresu — technical, on-page, content, podstrony, off-page, lokalne, e-commerce, AI Overviews. Działa po polsku, uwzględnia realia polskiego rynku.",
+      "category": "marketing",
+      "defaultEnabled": true,
+      "keywords": [
+        "seo",
+        "audyt",
+        "audit",
+        "technical-seo",
+        "content-audit",
+        "ecommerce",
+        "local-seo",
+        "ai-overviews",
+        "polska"
+      ]
+    }
+  ]
+}
